@@ -1,6 +1,9 @@
 {
-    "OAUTH_TOKEN": "1",
-    "OAUTH_SECRET": "2",
-    "CONSUMER_KEY": "3",
-    "CONSUMER_SECRET": "4"
+    "handle": "handle",
+    "oauth_token": "1",
+    "oauth_secret": "2",
+    "consumer_key": "3",
+    "consumer_secret": "4",
+    "followers": "follower.json",
+    "following": "following.json"
 }
