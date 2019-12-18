@@ -1,9 +1,9 @@
 {
     "handle": "handle",
-    "oauth_token": "1",
-    "oauth_secret": "2",
-    "consumer_key": "3",
-    "consumer_secret": "4",
+    "oauth_token": "1207307178652123138",
+    "oauth_secret": "SfJP4ig1RFl9QmuqmpKzjenauTCd2rIUeq0o6KSeQhLZ0",
+    "consumer_key": "EwJUhhc0xJ1cN5JgacLfw5PR5",
+    "consumer_secret": "ZZBnHNYxbMph36Xaq5f5y0wyAxV0FH4hoPiq3NO80Pg0hY0vu4",
     "followers": "follower.json",
     "following": "following.json"
 }
