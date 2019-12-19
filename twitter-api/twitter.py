@@ -1,10 +1,12 @@
+""" Module that contains the class that serves as a facade to the twitter api.
+"""
+
 from twitter import Twitter, OAuth, TwitterHTTPError
 from util.singleton import Singleton
 from connection import Connection
 from config.config import Config
 import json
 
-@Singleton
 class Twitter(object):
 
     def __init__(self):

@@ -5,7 +5,6 @@ from config.config import Config
 """ Module that contains the Connection class """
 
 
-@Singleton
 class Connection(object):
     """ Singleton class that manages the TWitter connection 
     """
