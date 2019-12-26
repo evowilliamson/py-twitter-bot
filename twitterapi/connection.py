@@ -1,4 +1,3 @@
-from util.singleton import Singleton
 from twitter import Twitter, OAuth, TwitterHTTPError
 from config.config import Config
 

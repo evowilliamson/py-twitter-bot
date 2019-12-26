@@ -2,7 +2,6 @@
 """
 
 from twitter import Twitter, OAuth, TwitterHTTPError
-from util.singleton import Singleton
 from connection import Connection
 from config.config import Config
 import json
